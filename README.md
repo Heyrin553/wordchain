@@ -70,3 +70,5 @@
 
 - 정나미
 >>>>>>> 7dbfcc5f945bc26681add232fd08be2eedeaecfb
+
+- 미나리
